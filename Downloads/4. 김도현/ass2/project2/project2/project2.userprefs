@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/Rotate.cs">
+    <Files>
+      <File FileName="Assets/script/col_distroy.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/move_3.cs" Line="25" Column="30" />
+      <File FileName="Assets/script/enermygen4.cs" Line="16" Column="40" />
+      <File FileName="Assets/script/move_bar2.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/Collision.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/Enemygen.cs" Line="15" Column="36" />
+      <File FileName="Assets/script/coll_2.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/NewBehaviourScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/Rotate.cs" Line="14" Column="3" />
+      <File FileName="Assets/script/enemy_3.cs" Line="10" Column="17" />
+      <File FileName="Assets/Enemy_3_2.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/enemy_4.cs" Line="1" Column="1" />
+      <File FileName="Assets/Enemy_4_2.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/time_text.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/move_3_1.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/enemygen_3.cs" Line="13" Column="2" />
+      <File FileName="Assets/script/time.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/timer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
